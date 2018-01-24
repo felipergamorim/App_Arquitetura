@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplicativo_Arquitetura.Views_PageTeste.Ambientes">
+    <ContentPage.Content>
+        <StackLayout>
+            <ScrollView>
+                <StackLayout>
+                    <StackLayout x:Name="Salas">
+                        <Label Text="Salas de Aula" BackgroundColor="LightGray"/>
+                        <Frame OutlineColor="Black">
+                            <Label Text="Sala A101"/>
+                        </Frame>
+                    </StackLayout>
+                    <StackLayout x:Name="Secretaria">
+                        <Label Text="Secretarias" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                    <StackLayout x:Name="Banheiros">
+                        <Label Text="Sanitários , Banheiros e Vestiários" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                    <StackLayout x:Name="Auditórios">
+                        <Label Text="Auditórios" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                    <StackLayout x:Name="Recepção">
+                        <Label Text="Recepções" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                    <StackLayout x:Name="Pátios">
+                        <Label Text="Pátios" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                    <StackLayout x:Name="Biblioteca">
+                        <Label Text="Bibliotecas" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                    <StackLayout x:Name="SalasInfo">
+                        <Label Text="Salas de Informática" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                    <StackLayout x:Name="Laboratórios">
+                        <Label Text="Laboratórios" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                    <StackLayout x:Name="Ginásio">
+                        <Label Text="Ginásios" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+            <Button Text="Demonstração"
+                    x:Name="Teste"
+                    Clicked="Teste_Clicked"
+                    VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

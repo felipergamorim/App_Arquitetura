@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                  xmlns:local="clr-namespace:Aplicativo_Arquitetura;assembly=Aplicativo_Arquitetura"
+             x:Class="Aplicativo_Arquitetura.Views.PageTeste2"
+             Padding="5"
+             BackgroundColor="White">
+    <StackLayout>
+        <Label Text="Texto a ser Definido"
+               HorizontalTextAlignment="Center"/>
+        <BoxView HeightRequest="1"
+                 Color="Black"/>
+        <Frame OutlineColor="Black"
+               StyleId="1">
+            <Label Text="'Icone'   Entorno"/>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+            </Frame.GestureRecognizers>
+        </Frame>
+        <Frame OutlineColor="Black"
+               StyleId="2">
+            <Label Text="'Icone'   Acesso e Estacionamento"/>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+            </Frame.GestureRecognizers>
+        </Frame>
+        <Frame OutlineColor="Black"
+               StyleId="3">
+            <Label Text="'Icone'   Ambientes"/>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+            </Frame.GestureRecognizers>
+        </Frame>
+        <Frame OutlineColor="Black"
+               StyleId="4">
+            <Label Text="'Icone'   Circulação"/>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+            </Frame.GestureRecognizers>
+        </Frame>
+        <Frame OutlineColor="Black"
+               StyleId="5">
+            <Label Text="'Icone'   Informações e Sinalização"/>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+            </Frame.GestureRecognizers>
+        </Frame>
+    </StackLayout>
+</ContentPage>

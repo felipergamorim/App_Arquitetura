@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:Aplicativo_Arquitetura;assembly=Aplicativo_Arquitetura"
+             x:Class="Aplicativo_Arquitetura.PageTeste"
+             Padding="5">
+    <NavigationPage Title="Entorno">
+        <x:Arguments>
+            <local:NovaEscola/>
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Acesso e Estacionamento">
+        <x:Arguments>
+            <local:Views_PageTeste.Acesso_e_Estacionamento/>
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Ambientes">
+        <x:Arguments>
+            <local:Views_PageTeste.Ambientes/>
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Circulação">
+        <x:Arguments>
+            <local:NovaEscola/>
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Informações e Sinalização">
+        <x:Arguments>
+            <local:NovaEscola/>
+        </x:Arguments>
+    </NavigationPage>
+</TabbedPage>

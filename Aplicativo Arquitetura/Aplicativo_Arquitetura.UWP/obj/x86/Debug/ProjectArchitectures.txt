@@ -1,0 +1,2 @@
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.UWP\Aplicativo_Arquitetura.UWP.csproj;x86
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\Aplicativo_Arquitetura.csproj;neutral

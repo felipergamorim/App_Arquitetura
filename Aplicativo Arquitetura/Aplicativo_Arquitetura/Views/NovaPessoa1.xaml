@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplicativo_Arquitetura.Views.NovaPessoa1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Cadastro de Pessoa"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"
+                   HeightRequest="50"/>
+            <BoxView HeightRequest="1"
+                     Color="Black"/>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Nova Pessoa"
+                       WidthRequest="150"
+                       HorizontalTextAlignment="Center"
+                       VerticalTextAlignment="Center"/>
+                <Entry Placeholder="Nome"
+                       PlaceholderColor="Gray"
+                       Text="{Binding Nome, Mode=OneWayToSource}"/>
+                <Entry Placeholder="Id"
+                       PlaceholderColor="Gray"
+                       Text="{Binding Id, Mode=OneWayToSource}"/>
+                <Entry Placeholder="Email"
+                       PlaceholderColor="Gray"
+                       Text="{Binding Email, Mode=OneWayToSource}"/>
+            </StackLayout>
+            <Button x:Name="Salvar"
+                    Text="Salvar"
+                    Clicked="Salvar_Clicked"
+                    VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

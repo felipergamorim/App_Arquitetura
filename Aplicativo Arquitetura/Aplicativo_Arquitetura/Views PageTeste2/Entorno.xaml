@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplicativo_Arquitetura.Views_PageTeste2.Entorno">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Entorno"
+                   HorizontalTextAlignment="Center"/>
+            <BoxView HeightRequest="1"
+                     Color="Black"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

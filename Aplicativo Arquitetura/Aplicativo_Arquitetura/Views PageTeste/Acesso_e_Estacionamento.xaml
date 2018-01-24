@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplicativo_Arquitetura.Views_PageTeste.Acesso_e_Estacionamento">
+    <ContentPage.Content>
+        <StackLayout>
+            <ScrollView>
+                <StackLayout>
+                    <StackLayout x:Name="Equipamentos">
+                        <Label Text="Equipamentos de Controle" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                    <StackLayout x:Name="Rotas">
+                        <Label Text="Rotas Acessíveis" BackgroundColor="LightGray"/>
+                    </StackLayout>
+                    <StackLayout>
+                        <Label Text="Acessos" BackgroundColor="LightGray"/>
+                        <Frame OutlineColor="Black">
+                            <Label Text="Acesso 1"/>
+                        </Frame>
+                    </StackLayout>
+                    <StackLayout>
+                        <Label Text="Estacionamentos" BackgroundColor="LightGray"/>
+                        <Frame OutlineColor="Black">
+                            <Label Text="Estacionamento Professores"/>
+                        </Frame>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+            <Button Text="Demonstração"
+                    x:Name="Teste"
+                    Clicked="Teste_Clicked"
+                    VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,150 @@
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.Android.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.Android.pdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\com.companyname.Aplicativo_Arquitetura.apk
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\com.companyname.Aplicativo_Arquitetura-Signed.apk
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\FormsViewGroup.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLite.Net.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLite.Net.Platform.XamarinAndroid.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLite.Net.Platform.XamarinAndroidN.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Design.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.v4.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Core.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Platform.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Xaml.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.pdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\FormsViewGroup.pdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\FormsViewGroup.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Core.pdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Core.xml
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Xaml.xml
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\Aplicativo_Arquitetura.Android.csprojResolveAssemblyReference.cache
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\Aplicativo_Arquitetura.Android.csproj.CoreCompileInputs.cache
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\Aplicativo_Arquitetura.Android.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\Aplicativo_Arquitetura.Android.pdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\bin\com.companyname.Aplicativo_Arquitetura.apk
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\drawable\icon.png
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\drawable-hdpi\icon.png
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\drawable-xhdpi\icon.png
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\drawable-xxhdpi\icon.png
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\layout\tabbar.xml
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\layout\toolbar.xml
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\values\styles.xml
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\R.cs.flag
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\uploadflags.txt
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.Android.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\Aplicativo_Arquitetura.Android.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\Aplicativo_Arquitetura.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Release\Aplicativo_Arquitetura.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.Android.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.Android.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\com.companyname.Aplicativo_Arquitetura.apk
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\com.companyname.Aplicativo_Arquitetura-Signed.apk
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\FormsViewGroup.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLite.Net.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLite.Net.Platform.XamarinAndroid.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLite.Net.Platform.XamarinAndroidN.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Design.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.v4.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Core.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Platform.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Xaml.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\FormsViewGroup.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\FormsViewGroup.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Core.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Core.xml
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Xaml.xml
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\Aplicativo_Arquitetura.Android.csprojResolveAssemblyReference.cache
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\Aplicativo_Arquitetura.Android.csproj.CoreCompileInputs.cache
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\Aplicativo_Arquitetura.Android.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\Aplicativo_Arquitetura.Android.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\bin\com.companyname.Aplicativo_Arquitetura.apk
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\drawable\icon.png
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\drawable-hdpi\icon.png
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\drawable-xhdpi\icon.png
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\drawable-xxhdpi\icon.png
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\layout\tabbar.xml
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\layout\toolbar.xml
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\values\styles.xml
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\R.cs.flag
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\uploadflags.txt
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.Android.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\Aplicativo_Arquitetura.Android.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\Aplicativo_Arquitetura.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLite-net.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLitePCLRaw.batteries_green.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLitePCLRaw.core.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLite-net.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\SQLite-net.xml
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\obj\Release\res\raw\banco.db3
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura.Android\bin\Release\Aplicativo_Arquitetura.Android.dll
+bin\Release\Aplicativo_Arquitetura.dll.mdb
+obj\Release\linksrc\Aplicativo_Arquitetura.Android.dll.mdb
+obj\Release\linksrc\Aplicativo_Arquitetura.dll.mdb
+obj\Release\linksrc\FormsViewGroup.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\SQLite-net.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb

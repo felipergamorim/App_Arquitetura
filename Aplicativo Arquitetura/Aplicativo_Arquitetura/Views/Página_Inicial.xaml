@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplicativo_Arquitetura.Página_Inicial"
+             Padding="20"
+             BackgroundColor="White">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="+" Clicked="Nova_Escola"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame>
+                <Label Text="Nome do aplicativo"
+                       HorizontalTextAlignment="Center"
+                       TextColor="Blue"/>
+            </Frame>
+            <Frame OutlineColor="Gray"
+                   IsVisible="True"
+                   VerticalOptions="CenterAndExpand">
+                <ScrollView x:Name="EscolasExistem"
+                            IsVisible="True">
+                    <StackLayout x:Name="Escolas">
+                        <Frame OutlineColor="DarkMagenta"
+                               StyleId="1">
+                            <Label Text="Design 1"
+                                   HorizontalTextAlignment="Center"
+                                   TextColor="GreenYellow"/>
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+                            </Frame.GestureRecognizers>
+                        </Frame>
+                        <Frame OutlineColor="DarkRed"
+                               StyleId="2">
+                            <Label Text="Design 2"
+                                   HorizontalTextAlignment="Center"
+                                   TextColor="DarkOrange"/>
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+                            </Frame.GestureRecognizers>
+                        </Frame>
+                        <Frame OutlineColor="Purple"
+                               StyleId="3">
+                            <Label Text="Texto 3"
+                                   HorizontalTextAlignment="Center"
+                                   TextColor="DeepPink"/>
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+                            </Frame.GestureRecognizers>
+                        </Frame>
+                    </StackLayout>
+                </ScrollView>
+            </Frame>
+            <StackLayout Orientation="Horizontal"
+                         HorizontalOptions="Center">
+                <Button x:Name="NovaEscola"
+                        Clicked="Nova_Escola"
+                        Text="Nova Escola"
+                        BorderColor="Silver"
+                        BackgroundColor="White"/>
+                <Button x:Name="Ajuda"
+                        Text="A definir texto de ajuda/PageTeste"
+                        BorderColor="Silver"
+                        BackgroundColor="White"
+                        Clicked="Ajuda_Clicked"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

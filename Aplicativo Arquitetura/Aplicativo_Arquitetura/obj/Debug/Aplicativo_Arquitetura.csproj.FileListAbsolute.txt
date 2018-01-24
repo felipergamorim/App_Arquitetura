@@ -1,0 +1,85 @@
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Aplicativo_Arquitetura.dll
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Aplicativo_Arquitetura.pdb
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.csprojResolveAssemblyReference.cache
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.csproj.CoreCompileInputs.cache
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.App.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.dll
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.pdb
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.Página_Inicial.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.PageTeste.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.NovaEscola.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\SQLite.Net.dll
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.PageTeste2.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Entorno.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Acesso_e_Estacionamento.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Ambientes.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Circulação.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Informações_e_Sinalização.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste.Acesso_e_Estacionamento.xaml.g.cs
+C:\Users\FelipeAmorim\source\repos\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste.Ambientes.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Aplicativo_Arquitetura.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Aplicativo_Arquitetura.pdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\SQLite.Net.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Core.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Core.xml
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.csprojResolveAssemblyReference.cache
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.csproj.CoreCompileInputs.cache
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.App.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.Página_Inicial.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.PageTeste.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.NovaEscola.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.PageTeste2.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Entorno.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Acesso_e_Estacionamento.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Ambientes.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Circulação.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Informações_e_Sinalização.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste.Acesso_e_Estacionamento.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste.Ambientes.xaml.g.cs
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.dll
+D:\Xamarin\Aplicativo Arquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Aplicativo_Arquitetura.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Aplicativo_Arquitetura.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\SQLite-net.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\SQLite.Net.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\SQLitePCLRaw.core.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Core.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\SQLite-net.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\SQLite-net.xml
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Core.xml
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.csprojResolveAssemblyReference.cache
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.csproj.CoreCompileInputs.cache
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.App.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.Página_Inicial.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.PageTeste.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.NovaEscola.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views.PageTeste2.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Entorno.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Acesso_e_Estacionamento.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Ambientes.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Circulação.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste2.Informações_e_Sinalização.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste.Acesso_e_Estacionamento.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.Views_PageTeste.Ambientes.xaml.g.cs
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.dll
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.pdb
+D:\Xamarin\AppArquitetura\Aplicativo Arquitetura\Aplicativo_Arquitetura\obj\Debug\Aplicativo_Arquitetura.ViewsTodo.ListaEscola.xaml.g.cs
